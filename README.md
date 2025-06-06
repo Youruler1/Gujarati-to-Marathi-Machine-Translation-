@@ -1,5 +1,5 @@
 # Gujarati-to-Marathi-Machine-Translation-
-Gujarati-to-Marathi Neural  Machine Translation via  English Pivot and NLLB-200  Fine-Tuning &lt;br>
+Gujarati-to-Marathi Neural  Machine Translation via  English Pivot and NLLB-200  Fine-Tuning 
 
 Machine translation between low‐resource Indic languages is difficult because of scarce direct 
 parallel data and script differences. This project builds a Gujarati to Marathi translator by 
